@@ -2,6 +2,8 @@
 
 PyGRN logos, projects and source files!
 
+![PyGRN logo](pygrn_logo_badge.png)
+
 Feel free to submit new ideas, PRs are welcome!
 
 
