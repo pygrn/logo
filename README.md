@@ -2,7 +2,7 @@
 
 PyGRN logos, projects and source files!
 
-<img src="pygrn_logo_badge.png" width="200" height="200">
+<img src="pygrn_badge.png" width="200" height="200">
 
 Feel free to submit new ideas, PRs are welcome!
 
