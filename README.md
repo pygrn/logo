@@ -15,4 +15,4 @@ Many thanks to
 - [Xavi Torelló @XaviTorelló](https://github.com/xavitorello)
   - Recreation, free-libre sources lookup and first SVG renders at 03/2019
 - [Ferran Perxas @l0rdbistec](https://github.com/l0rdbistec)
-  - Recreation, to fullfill psf requirements at 03/2019
+  - Recreation, to fullfill psf requirements at 08/2022
