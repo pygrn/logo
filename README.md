@@ -2,7 +2,7 @@
 
 PyGRN logos, projects and source files!
 
-<img src="pygrn_badge.png" width="200" height="200">
+<img src="pygrn_badge_psf.png" width="200" height="200">
 
 Feel free to submit new ideas, PRs are welcome!
 
@@ -14,3 +14,5 @@ Many thanks to
   - Original creator of the first logo at 05/2017
 - [Xavi Torelló @XaviTorelló](https://github.com/xavitorello)
   - Recreation, free-libre sources lookup and first SVG renders at 03/2019
+- [Ferran Perxas @l0rdbistec](https://github.com/l0rdbistec)
+  - Recreation, to fullfill psf requirements at 03/2019
